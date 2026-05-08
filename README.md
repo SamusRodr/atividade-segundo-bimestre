@@ -1,0 +1,2 @@
+# atividade-segundo-bimestre.
+Portugol
