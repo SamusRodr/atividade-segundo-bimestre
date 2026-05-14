@@ -3,15 +3,15 @@ programa
 	
 	funcao inicio()
 	{
-	     real metros, cm
+	    real metros, cm
 	     
 		escreva("Quantos metros vc quer transformar em centímetros? ")
 		
-leia(metros)
+        leia(metros)
 
-          cm = metros * 100
+        cm = metros * 100
 
-          escreva(metros, " metros são ", cm, " centimetros")
+        escreva(metros, " metros são ", cm, " centimetros")
 		
 	}
 }
